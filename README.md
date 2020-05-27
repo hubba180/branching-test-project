@@ -15,10 +15,10 @@ _An exercise to learn about git branching and merging._
 
 ## Technologies Used
 
-HTML  return
+HTML  
 Git
 
 ## Legal
 
-Copyright (c) 2020 **_Peter Grimm, Kyle Hubbard_**
+Copyright (c) 2020 **_Peter Grimm, Kyle Hubbard_**  
 This software is licensed under the MIT license.
